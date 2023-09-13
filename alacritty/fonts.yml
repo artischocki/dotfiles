@@ -1,0 +1,27 @@
+# good fonts:
+#
+# JetBrainsMono Nerd Font
+# FiraCode Nerd Font
+
+# choose here:
+family: &family FiraCode Nerd Font
+
+font:
+  normal:
+    family: *family
+    style: Regular
+
+  bold:
+    family: *family
+    style: Bold
+
+  italic:
+    family: *family
+    style: Italic
+
+  bold_italic:
+    family: *family
+    style: Bold Italic
+
+  # Point size
+  size: 15.0
