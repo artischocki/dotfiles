@@ -11,4 +11,14 @@ alias nv="nvim"
 alias pd="prevd"
 alias nd="nextd"
 
+# lf
+set LFCD "~/.config/lf/lfcd.sh"
+if test -f "$LFCD"
+    source "$LFCD"
+end
+alias lf=lfcd
+
+# sets
+set EDITOR nvim
+
 source ~/.config/fish/secrets.fish
