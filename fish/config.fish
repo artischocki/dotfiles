@@ -11,4 +11,4 @@ alias nv="nvim"
 alias pd="prevd"
 alias nd="nextd"
 
-source ./secrets.fish
+source ~/.config/fish/secrets.fish
