@@ -10,3 +10,5 @@ alias tma="tmux attach"
 alias nv="nvim"
 alias pd="prevd"
 alias nd="nextd"
+
+source ./secrets.fish
