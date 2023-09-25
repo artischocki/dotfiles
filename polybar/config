@@ -236,7 +236,7 @@ format-prefix-foreground = #61afef
 label-foreground =   #D8DEE9
 format-padding = 1
 
-
+; always refer to https://github.com/mihirlad55/polybar-spotify-module
 [module/previous]
 type = custom/ipc
 format-background = ${colors.alt-background}

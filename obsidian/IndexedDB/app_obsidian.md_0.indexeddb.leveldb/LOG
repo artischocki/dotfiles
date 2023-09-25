@@ -1,3 +1,21 @@
-2023/09/18-21:20:05.333 68d Reusing MANIFEST /home/artur/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2023/09/18-21:20:05.334 68d Recovering log #108
-2023/09/18-21:20:05.338 68d Reusing old log /home/artur/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000108.log 
+2023/09/24-01:42:37.919 79d Reusing MANIFEST /home/artur/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/24-01:42:37.919 79d Recovering log #113
+2023/09/24-01:42:37.928 79d Reusing old log /home/artur/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000113.log 
+2023/09/24-02:54:50.137 79e Level-0 table #118: started
+2023/09/24-02:54:50.158 79e Level-0 table #118: 1309252 bytes OK
+2023/09/24-02:54:50.161 79e Delete type=0 #113
+2023/09/24-02:58:59.244 79d Compacting 1@1 + 1@2 files
+2023/09/24-02:58:59.253 79d Generated table #119@1: 966 keys, 96824 bytes
+2023/09/24-02:58:59.254 79d Compacted 1@1 + 1@2 files => 96824 bytes
+2023/09/24-02:58:59.256 79d compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/24-02:58:59.256 79d Delete type=2 #115
+2023/09/24-02:58:59.256 79d Delete type=2 #118
+2023/09/24-03:06:18.173 79e Level-0 table #121: started
+2023/09/24-03:06:18.211 79e Level-0 table #121: 1307593 bytes OK
+2023/09/24-03:06:18.218 79e Delete type=0 #117
+2023/09/24-03:07:58.411 79d Compacting 1@1 + 1@2 files
+2023/09/24-03:07:58.437 79d Generated table #122@1: 967 keys, 97628 bytes
+2023/09/24-03:07:58.437 79d Compacted 1@1 + 1@2 files => 97628 bytes
+2023/09/24-03:07:58.441 79d compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/24-03:07:58.442 79d Delete type=2 #121
+2023/09/24-03:07:58.442 79d Delete type=2 #119

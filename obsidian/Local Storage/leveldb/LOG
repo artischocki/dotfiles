@@ -1,3 +1,12 @@
-2023/09/18-21:20:03.573 68c Reusing MANIFEST /home/artur/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2023/09/18-21:20:03.574 68c Recovering log #4
-2023/09/18-21:20:03.576 68c Reusing old log /home/artur/.config/obsidian/Local Storage/leveldb/000004.log 
+2023/09/24-01:42:36.035 79d Reusing MANIFEST /home/artur/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2023/09/24-01:42:36.036 79d Recovering log #4
+2023/09/24-01:42:36.038 79d Reusing old log /home/artur/.config/obsidian/Local Storage/leveldb/000004.log 
+2023/09/24-03:10:25.027 79e Level-0 table #8: started
+2023/09/24-03:10:25.043 79e Level-0 table #8: 466920 bytes OK
+2023/09/24-03:10:25.047 79e Delete type=0 #4
+2023/09/24-03:10:42.070 79d Level-0 table #10: started
+2023/09/24-03:10:42.087 79d Level-0 table #10: 467598 bytes OK
+2023/09/24-03:10:42.091 79d Delete type=0 #7
+2023/09/24-03:11:03.162 79e Level-0 table #12: started
+2023/09/24-03:11:03.195 79e Level-0 table #12: 467890 bytes OK
+2023/09/24-03:11:03.200 79e Delete type=0 #9
