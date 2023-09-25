@@ -29,6 +29,12 @@ vim.opt.colorcolumn = "80"
 
 vim.g.mapleader = " "
 
+-- accept :W and :Q
+vim.cmd('abb W w')
+vim.cmd('abb Q q')
+vim.cmd('abb WQ wq')
+vim.cmd('abb Wq wq')
+
 -- clipboard
 vim.opt.clipboard = 'unnamedplus'
 
