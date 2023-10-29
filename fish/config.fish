@@ -10,6 +10,8 @@ alias tma="tmux attach"
 alias nv="nvim"
 alias pd="prevd"
 alias nd="nextd"
+alias ls="exa"
+alias suspend="systemctl suspend && slock"
 
 # lf
 set LFCD "~/.config/lf/lfcd.sh"
