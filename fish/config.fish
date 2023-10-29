@@ -3,15 +3,8 @@ if status is-interactive
     set fish_greeting
 end
 
+# conda
 fish_add_path /home/artur/.local/anaconda3/bin/
-
-alias tm="tmux"
-alias tma="tmux attach"
-alias nv="nvim"
-alias pd="prevd"
-alias nd="nextd"
-alias ls="exa"
-alias suspend="systemctl suspend && slock"
 
 # lf
 set LFCD "~/.config/lf/lfcd.sh"
@@ -23,4 +16,6 @@ alias lf=lfcd
 # sets
 set EDITOR nvim
 
+# sources
+source ~/.config/fish/aliases.fish
 source ~/.config/fish/secrets.fish

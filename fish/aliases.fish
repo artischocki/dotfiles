@@ -1,0 +1,8 @@
+alias tm="tmux"
+alias tma="tmux attach"
+alias nv="nvim"
+alias pd="prevd"
+alias nd="nextd"
+alias ls="exa"
+alias suspend="systemctl suspend && slock"
+alias py="python3"
