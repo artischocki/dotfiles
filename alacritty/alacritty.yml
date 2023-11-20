@@ -23,4 +23,4 @@ mouse:
   hide_when_typing: false
 
 shell:
-  program: /usr/bin/fish
+  program: /usr/bin/zsh

@@ -1,5 +1,5 @@
 # filesystem related
-alias ls='ls --color=auto'
+alias ls='exa'
 alias ll="ls -l"
 alias la="ls -alF"
 alias grep='grep --colour=auto'
@@ -30,9 +30,14 @@ alias wp1="nitrogen --set-zoom-fill --head=1 --random --save"
 alias lf='/home/artur/.config/lf/lfrun'
 alias nv='nvim'
 
+
+# git
+alias gs="git status"
+
 # tmux
 alias tm="tmux"
 alias tma="tmux attach"
+alias tms="tmux new-session"
 
 # switch to US-Keymap
 alias map='xmodmap ~/.Xmodmap'
