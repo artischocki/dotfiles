@@ -1,0 +1,34 @@
+flutter
+obsidian/*
+BraveSoftware/
+Code/
+Code - OSS/
+QtProject.conf
+Raspberry Pi/
+Thunar/
+VSCodium/
+bash/aliases.sh
+bash/exports.sh
+calibre/
+cef_user_data/
+chromium/
+dconf/
+github-copilot/
+gtk-2.0/
+htop/
+label-studio/
+mimeapps.list
+nautilus/
+neofetch/
+onlyoffice/
+pavucontrol.ini
+openvpn/
+torbrowser/
+xfce4/
+zoom.conf
+zoomus.conf
+pulse/
+spotify/
+fish/secrets.fish
+bash/secrets.sh
+shell/secrets.sh
