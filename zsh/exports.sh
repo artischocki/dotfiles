@@ -9,3 +9,9 @@ export SAM_MODEL_TYPE="vit_h"
 
 # for .config
 export XDG_CONFIG_HOME="/home/anf3fe/.config/"
+
+# android
+export ANDROID_HOME=/opt/android-sdk
+export PATH="$PATH:$ANDROID_HOME/tools"
+export PATH="$PATH:$ANDROID_HOME/platform-tools"
+
