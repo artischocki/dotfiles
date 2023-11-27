@@ -1,8 +1,5 @@
 vim.g.mapleader = " "
 
--- netrw
-vim.keymap.set("n", "<leader><leader>", vim.cmd.Ex)
-
 -- close buffers
 vim.keymap.set("n", "<C-w>", vim.cmd.bd)
 

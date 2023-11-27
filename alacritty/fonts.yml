@@ -4,7 +4,7 @@
 # FiraCode Nerd Font
 
 # choose here:
-family: &family FiraCode Nerd Font
+family: &family FiraMono Nerd Font
 
 font:
   normal:
