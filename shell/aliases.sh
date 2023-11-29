@@ -27,7 +27,6 @@ alias suspend="systemctl suspend && slock"
 alias mkthesis="cd /home/artur/data/UNI/BA/ && latexmk -pvc -pdf thesis.tex"
 alias wp0="nitrogen --set-zoom-fill --head=0 --random --save"
 alias wp1="nitrogen --set-zoom-fill --head=1 --random --save"
-alias lf='/home/artur/.config/lf/lfrun'
 alias nv='nvim'
 
 
