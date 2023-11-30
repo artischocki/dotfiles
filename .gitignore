@@ -33,3 +33,4 @@ fish/secrets.fish
 bash/secrets.sh
 shell/secrets.sh
 gtk*
+tmux/plugins
