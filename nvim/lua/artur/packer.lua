@@ -45,6 +45,11 @@ return require('packer').startup(function(use)
       },
     }
 
+    -- leap for fast forward and backward finding
+    use {
+        "ggandor/leap.nvim"
+    }
+
     -- undotree
     use('https://github.com/mbbill/undotree')
 

@@ -129,6 +129,11 @@ _G.packer_plugins = {
     path = "/home/anf3fe/.local/share/nvim/site/pack/packer/start/latex-snippets-vim",
     url = "https://github.com/ckunte/latex-snippets-vim"
   },
+  ["leap.nvim"] = {
+    loaded = true,
+    path = "/home/anf3fe/.local/share/nvim/site/pack/packer/start/leap.nvim",
+    url = "https://github.com/ggandor/leap.nvim"
+  },
   ["lsp-zero.nvim"] = {
     loaded = true,
     path = "/home/anf3fe/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
