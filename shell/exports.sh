@@ -22,4 +22,5 @@ export PATH="$PATH:$ANDROID_HOME/platform-tools"
 
 # WSL
 export PATH="$PATH:~/.local/bin"
+export PATH="$PATH:~/go/bin"
 export PATH="$PATH:/snap/bin"

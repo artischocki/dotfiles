@@ -41,3 +41,8 @@ alias tms="tmux new-session"
 # switch to US-Keymap
 alias map='xmodmap ~/.Xmodmap'
 alias umap='setxkbmap de'
+
+
+# LF
+source ~/.config/lf/lfcd.sh
+alias lf=lfcd
