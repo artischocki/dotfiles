@@ -1,0 +1,4 @@
+# UNCONFIGURED FSTAB FOR BASE SYSTEM
+G: /mnt/g drvfs defaults 0 0 
+
+#//dfs.abt-soc15.storage.de.bosch.com/CC_v_Platform_NRC_Gen2_all  /media/autdevdata    cifs auto,user=anf3fe,nofail,domain=DE,uid=0,gid=46 0 0

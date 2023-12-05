@@ -34,3 +34,4 @@ bash/secrets.sh
 shell/secrets.sh
 gtk*
 gh
+tmux/plugins
