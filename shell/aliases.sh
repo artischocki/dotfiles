@@ -51,3 +51,7 @@ alias lf=lfcd
 
 # fuzzy finding
 alias ff="cd \$(find * -type d | fzf --preview 'tree -C {}')"
+
+
+# poetry shell
+alias ps="poetry shell"
