@@ -50,7 +50,7 @@ alias lf=lfcd
 
 
 # fuzzy finding
-alias ff="cd \$(find * -type d | fzf --preview 'tree -C {}')"
+alias ff="cd ~ && cd \$(find * -type d | fzf --preview 'tree -C {}')"
 
 
 # poetry shell
