@@ -32,6 +32,7 @@ alias nv='nvim'
 
 # git
 alias gs="git status"
+alias ga="git add -A"
 
 # tmux
 alias tm="tmux"
@@ -46,3 +47,11 @@ alias umap='setxkbmap de'
 # LF
 source ~/.config/lf/lfcd.sh
 alias lf=lfcd
+
+
+# fuzzy finding
+alias ff="cd ~ && cd \$(find * -type d | fzf --preview 'tree -C {}')"
+
+
+# poetry shell
+alias ps="poetry shell"
