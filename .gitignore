@@ -35,3 +35,4 @@ shell/secrets.sh
 gtk*
 gh
 tmux/plugins
+nvim/plugin/packer_compiled.lua

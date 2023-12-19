@@ -183,7 +183,7 @@ gaps outer 1
 bar {
         status_command i3status -c ~/.config/i3/i3status/config
 }
-exec nitrogen
+exec nitrogen --restore
 exec --no-startup-id blueman-applet
 exec_always $HOME/.config/shell/scripts/display_manager.sh
 exec_always xset r rate 200 30
