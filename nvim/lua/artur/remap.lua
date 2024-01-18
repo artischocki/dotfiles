@@ -1,7 +1,8 @@
 vim.g.mapleader = " "
 
--- close buffers
-vim.keymap.set("n", "<C-w>", vim.cmd.bd)
+-- down up recenter
+vim.keymap.set("n", "<C-d>", "<C-d>zz")
+vim.keymap.set("n", "<C-u>", "<C-u>zz")
 
 --paste without yanking
 vim.keymap.set("x", "<leader>p", [["_dP]])
