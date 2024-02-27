@@ -24,3 +24,8 @@ export PATH="$PATH:$ANDROID_HOME/platform-tools"
 export PATH="$PATH:~/.local/bin"
 export PATH="$PATH:~/go/bin"
 export PATH="$PATH:/snap/bin"
+
+# SAM
+export SAM_DEVICE="cuda"
+export SAM_CHECKPOINT="/home/anf3fe/models/sam_vit_l_0b3195.pth"
+export SAM_MODEL_TYPE="vit_l"
